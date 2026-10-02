@@ -13,8 +13,6 @@ This project also demonstrates how planning, risk management, documentation, and
 
 [View the live website](https://vcisneros19.github.io/CMPA-3301-Final-Project/)
 
-> Note: If your GitHub repository uses a different name, update the link above after publishing the site with GitHub Pages.
-
 ## Project Documentation
 
 - [Project Scope Statement](docs/scope.md)
@@ -39,4 +37,3 @@ This project also demonstrates how planning, risk management, documentation, and
 
 Victor Cisneros  
 CMPA 3301  
-Texas Tech University
