@@ -11,7 +11,7 @@ This project also demonstrates how planning, risk management, documentation, and
 
 ## Live Website
 
-[View the live website](https://vcisneros19.github.io/Final-Project/)
+[View the live website]\(https://vcisneros19.github.io/Final-Project/)
 
 ## Project Documentation
 
