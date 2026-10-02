@@ -15,9 +15,9 @@ This project also demonstrates how planning, risk management, documentation, and
 
 ## Project Documentation
 
-- [Project Scope Statement](docs/scope.md)
-- [Project Plan](docs/plan.md)
-- [Project Retrospective](docs/retrospective.md)
+- [Project Scope Statement](Folder/scope.md)
+- [Project Plan](Folder/plan.md)
+- [Project Retrospective](Folder/retrospective.md)
 
 ## Website Pages
 
